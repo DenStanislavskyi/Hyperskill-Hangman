@@ -1,2 +1,2 @@
 # Hyperskill-Hangman
-Python Basics projekt
+my implementation of Hyperskill Python hangman projekt
