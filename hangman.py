@@ -30,7 +30,6 @@ while True:
                     hint_word = hint_word[:index] + user_word + hint_word[index + 1:]
                     index += 1
                 letters.discard(user_word)
-                print(hint_word)
                 guessed_letters.add(user_word)
                 if len(letters) == 0:
                     print("You guessed the word!\nYou survived!\n")
